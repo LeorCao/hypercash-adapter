@@ -1,4 +1,4 @@
-module github.com/blocktree/hypercash-adapter
+module github.com/LeorCao/hypercash-adapter
 
 go 1.12
 
